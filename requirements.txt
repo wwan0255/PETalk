@@ -1,0 +1,33 @@
+# PyTorch for CUDA 11.3 (check compatibility with your GPU)
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+torchaudio==0.12.1
+
+# Audio Processing
+librosa==0.9.2
+soundfile
+scipy
+
+# SadTalker Core Dependencies (selected from its requirements.txt)
+numpy
+scipy
+joblib
+yacs
+pyyaml
+tqdm
+Pillow
+gfpgan
+face-alignment
+imageio
+imageio-ffmpeg
+scikit-image
+ffmpeg-python
+basicsr
+
+# Wav2Lip Core Dependencies (selected from its requirements.txt)
+opencv-python
+numba
+
+# For visualization and data handling in scripts
+matplotlib
+pandas
