@@ -119,3 +119,9 @@ venv.bak/
 *.log
 logs/
 /SadTalker/logs/
+
+# Ignore all generated output files and directories
+/output_content/
+
+# Ignore user-provided input data
+/input_content/

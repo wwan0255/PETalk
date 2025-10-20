@@ -92,7 +92,7 @@ This project requires Python 3.8 and several external dependencies. A virtual en
 First, clone the PETalk repository. Then, clone the required `SadTalker` and `Wav2Lip` sub-modules into the root directory.
 
 ```bash
-git clone https://github.com/[YourUsername]/PETalk.git
+git clone https://github.com/KehongGuo/PETalk.git
 cd PETalk
 
 # Clone sub-projects
@@ -141,7 +141,7 @@ wget "https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth" -O "
     Execute `main.py` from the command line, specifying your input files.
 
     ```bash
-    python main.py --source_image input/face.png --driven_audio input/speech.wav --output_dir results
+    python main.py --source_image input/face.png --driven_audio input/speech.wav --output_dir output_content
     ```
 
 ### Command-Line Arguments
