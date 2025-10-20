@@ -1,1 +1,0 @@
-# this is a folder for storing the model output
