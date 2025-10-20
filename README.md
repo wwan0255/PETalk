@@ -5,6 +5,12 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/KehongGuo/PETalk/blob/main/LICENSE)
 
+<div>
+    <a href='https://github.com/KehongGuo' target='_blank'>Kehong Guo <sup></a>&emsp;
+    <a href='https://github.com/Hanx000/' target='_blank'>Hanxia Li <sup></a>&emsp;
+</div>
+
+
 Welcome to PETalk, an end-to-end pipeline for generating high-quality, realistic talking head videos. The name stands for **P**losive-**E**nhanced **Talk**, highlighting its core feature: a custom audio pre-processing suite designed to create more articulate and lifelike facial animations by emphasizing hard consonant sounds.
 
 This project leverages state-of-the-art models and integrates a custom suite of audio and video enhancements to push beyond baseline performance and achieve greater realism.
