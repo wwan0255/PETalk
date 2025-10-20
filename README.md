@@ -141,7 +141,7 @@ wget "https://www.adrianbulat.com/downloads/python-fan/s3fd-619a316812.pth" -O "
     Execute `main.py` from the command line, specifying your input files.
 
     ```bash
-    python main.py --source_image input/face.png --driven_audio input/speech.wav --output_dir results
+    python main.py --source_image input/face.png --driven_audio input/speech.wav --output_dir output_content
     ```
 
 ### Command-Line Arguments
