@@ -162,4 +162,3 @@ This project builds upon the fantastic work from the following open-source proje
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
