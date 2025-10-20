@@ -9,7 +9,7 @@
     <a href='https://github.com/KehongGuo' target='_blank'>Kehong Guo <sup></a>&emsp;
     <a href='https://github.com/Hanx000/' target='_blank'>Hanxia Li <sup></a>&emsp;
 </div>
-
+</br>
 
 Welcome to PETalk, an end-to-end pipeline for generating high-quality, realistic talking head videos. The name stands for **P**losive-**E**nhanced **Talk**, highlighting its core feature: a custom audio pre-processing suite designed to create more articulate and lifelike facial animations by emphasizing hard consonant sounds.
 
