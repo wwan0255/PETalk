@@ -15,7 +15,7 @@ This project leverages state-of-the-art models and integrates a custom suite of 
 
 | 1. Baseline (SadTalker) | 2. Wav2Lip Refined | 3. PETalk Final Output |
 | :---: | :---: | :---: |
-| ![Baseline SadTalker Output](https://raw.githubusercontent.com/KehongGuo/PETalk/main/assets/baseline.gif) | ![Wav2Lip Refined Output](https://raw.githubusercontent.com/KehongGuo/PETalk/main/assets/wav2lip.gif) | ![PETalk Final Enhanced Output](https://raw.githubusercontent.com/KehongGuo/PETalk/main/assets/petalk_final.gif) |
+| ![Baseline SadTalker Output](https://raw.githubusercontent.com/KehongGuo/PETalk/main/assets/SadTalker_Output.gif) | ![Wav2Lip Refined Output](https://raw.githubusercontent.com/KehongGuo/PETalk/main/assets/Wav2Lip_Enhancement.gif) | ![PETalk Final Enhanced Output](https://raw.githubusercontent.com/KehongGuo/PETalk/main/assets/Final_Post-Processed.gif) |
 
 ---
 
