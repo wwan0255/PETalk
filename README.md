@@ -14,9 +14,9 @@ This project leverages state-of-the-art models and integrates a custom suite of 
 
 ### Demo & Comparison
 
-| Baseline (SadTalker) | PETalk Final Output |
-| :---: | :---: |
-| ![Baseline Video](link/to/your/baseline.gif) | ![Final Video](link/to/your/final_enhanced.gif) |
+| Baseline (SadTalker) | PETalk first Output | PETalk last Output |
+| :---: | :---: | :---: |
+| ![Baseline Video](https://raw.githubusercontent.com/KehongGuo/PETalk/assets/SadTalker-Output.mp4) | ![first Video](link/to/your/final_enhanced.gif) | ![last Video](link/to/your/final_enhanced.gif) |
 
 ---
 
